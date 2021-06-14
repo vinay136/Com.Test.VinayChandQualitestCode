@@ -4,7 +4,7 @@ Two scenario beig automated for this scope of framework
 1. Order Tshirt and verification in Order history
 2. Edit first Name in Personal info
 Screenshot attached for both scenario
-# Code is written in C#
+# Code is written in C#-Specflow-Selenium
 Folder details:
 1. Driver: Selenium Driver.cs: Chrome Driver being called in local and driver is set
 2. Hook: HookIntitialization.cs: BEfore and afetr scenario regarding Initialization and quitting of driver and closing the broswer.
